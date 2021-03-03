@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: main.tiny.sick.milk.race.seed.net.Reorienting
+
