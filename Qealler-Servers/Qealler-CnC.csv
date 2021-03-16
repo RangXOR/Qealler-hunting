@@ -1,5 +1,6 @@
 Server IP,Port,Protocol,First Seen,Last Seen,Hosting Provider,VirusTotal Link
-179.43.145[.]245,80,TCP,2021-03,present,Private Layer INC,https://www.virustotal.com/gui/ip-address/179.43.145.229/community
+31.7.61[.]14,80,TCP,2021-03,present,Private Layer INC,https://www.virustotal.com/gui/ip-address/31.7.61.14/community
+179.43.145[.]245,80,TCP,2021-03,2021-03,Private Layer INC,https://www.virustotal.com/gui/ip-address/179.43.145.229/community
 179.43.145[.]229,80,TCP,2020-10,2021-03,Private Layer INC,https://www.virustotal.com/gui/ip-address/179.43.145.229/community
 179.43.141[.]91,80,TCP,2020-10,2020-11,Private Layer INC,https://www.virustotal.com/gui/ip-address/179.43.141.91/community
 139.162.8[.]183,80,TCP,2020-10,2020-10,Linode LLC,https://www.virustotal.com/gui/ip-address/139.162.8.183/community
